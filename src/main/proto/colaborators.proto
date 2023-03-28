@@ -1,0 +1,35 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "org.acme";
+option java_outer_classname = "ColaboratorsGrpcProto";
+
+package colaborators;
+
+service Colaborators {
+  rpc FindColaborator (ColaboratorFind) returns (Colaborator) {}
+  rpc FindColaborators (Empty) returns (stream Colaborator) {}
+  rpc SaveColaborators (stream Colaborator) returns (SaveStatus){}
+  rpc SaveAndFindColaborators (stream Colaborator) returns (stream Colaborator){}
+}
+
+message Empty {}
+
+message SaveStatus {
+  string message = 1;
+}
+
+message ColaboratorFind {
+  string id = 1;
+}
+
+message Colaborator {
+  string id = 1;
+  string name = 2;
+  string birthday = 3;
+  string city = 4;
+  string state = 5;
+  string techStack = 6;
+  string mainTribe = 7;
+  string mainProject = 8;
+}

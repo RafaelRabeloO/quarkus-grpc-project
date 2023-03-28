@@ -1,0 +1,352 @@
+[
+  {
+    "id": "6419edd9eb27b5a14d578d35",
+    "name": "Corinne Mcdowell",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "Niteroi",
+    "state": "West Virginia",
+    "techStack": "Marketing",
+    "mainTribe": "Annie",
+    "mainProject": "Banco"
+  },
+  {
+    "id": "6419edd9ddc4dcde283acbc2",
+    "name": "Dee Stout",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "Aracaju",
+    "state": "Alabama",
+    "techStack": "FrontEnd",
+    "mainTribe": "Katherine",
+    "mainProject": "Portal Governo"
+  },
+  {
+    "id": "6419edd95287779a1a747fd0",
+    "name": "Phelps Shepard",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "Lavras",
+    "state": "Idaho",
+    "techStack": "Backend",
+    "mainTribe": "Katherine",
+    "mainProject": "Funerária"
+  },
+  {
+    "id": "6419edd9d51341016e68ae56",
+    "name": "Ayala Stevenson",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "Campinas",
+    "state": "Montana",
+    "techStack": "Backend",
+    "mainTribe": "Lawson",
+    "mainProject": "Minas"
+  },
+  {
+    "id": "6419edd973247bcb919e4d0c",
+    "name": "Cain Saunders",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "Campinas",
+    "state": "Louisiana",
+    "techStack": "People",
+    "mainTribe": "Turing",
+    "mainProject": "Portal Governo"
+  },
+  {
+    "id": "6419edd9c86e55d514152c01",
+    "name": "Lenora Mcbride",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "Uberlândia",
+    "state": "Virgin Islands",
+    "techStack": "DataScience",
+    "mainTribe": "Turing",
+    "mainProject": "Minas"
+  },
+  {
+    "id": "6419edd9744004994c6e9e64",
+    "name": "Mayo Sanders",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "Rio de Janeiro",
+    "state": "Tennessee",
+    "techStack": "Marketing",
+    "mainTribe": "Lawson",
+    "mainProject": "Banco"
+  },
+  {
+    "id": "6419edd98ccb0e394cd25c76",
+    "name": "Bobbie Fowler",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "São Cristóvão",
+    "state": "Oregon",
+    "techStack": "FrontEnd",
+    "mainTribe": "Woz",
+    "mainProject": "Música"
+  },
+  {
+    "id": "6419edd9c7aef56292724a7f",
+    "name": "Webb Mcintosh",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "São Paulo",
+    "state": "Palau",
+    "techStack": "Marketing",
+    "mainTribe": "Ritchie",
+    "mainProject": "Banco"
+  },
+  {
+    "id": "6419edd9dfc2e38674497fa2",
+    "name": "Kara Norris",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "São Paulo",
+    "state": "Utah",
+    "techStack": "FrontEnd",
+    "mainTribe": "Annie",
+    "mainProject": "Minas"
+  },
+  {
+    "id": "6419edd92662b081d305f8c6",
+    "name": "Mckinney Wiggins",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "São Gonçalo",
+    "state": "Puerto Rico",
+    "techStack": "People",
+    "mainTribe": "Annie",
+    "mainProject": "Alpa"
+  },
+  {
+    "id": "6419edd9571ab227aaf28561",
+    "name": "Nadine Tyson",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "Rio de Janeiro",
+    "state": "Vermont",
+    "techStack": "FrontEnd",
+    "mainTribe": "Katherine",
+    "mainProject": "Alpa"
+  },
+  {
+    "id": "6419edd9ae59ebf5f6e636ca",
+    "name": "Oliver Mayo",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "Rio de Janeiro",
+    "state": "Colorado",
+    "techStack": "Backend",
+    "mainTribe": "Woz",
+    "mainProject": "Alpa"
+  },
+  {
+    "id": "6419edd9a694bcae6c98bc79",
+    "name": "Rae Barrera",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "Uberlândia",
+    "state": "Virginia",
+    "techStack": "Marketing",
+    "mainTribe": "Annie",
+    "mainProject": "Energia"
+  },
+  {
+    "id": "6419edd975aec2bcc1423a0a",
+    "name": "Lucy Wallace",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "Lavras",
+    "state": "California",
+    "techStack": "People",
+    "mainTribe": "Turing",
+    "mainProject": "Energia"
+  },
+  {
+    "id": "6419edd9ebcb9f9d781066e5",
+    "name": "Madden Duran",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "Itabaiana",
+    "state": "Federated States Of Micronesia",
+    "techStack": "FrontEnd",
+    "mainTribe": "Katherine",
+    "mainProject": "Música"
+  },
+  {
+    "id": "6419edd98303e738ba731d99",
+    "name": "Banks Underwood",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "Aracaju",
+    "state": "Maryland",
+    "techStack": "People",
+    "mainTribe": "Lawson",
+    "mainProject": "Havaianas"
+  },
+  {
+    "id": "6419edd9e94630e9e1637361",
+    "name": "Marion Barry",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "São Paulo",
+    "state": "New Jersey",
+    "techStack": "Marketing",
+    "mainTribe": "Katherine",
+    "mainProject": "Banco"
+  },
+  {
+    "id": "6419edd97c2ebe81ffd15acc",
+    "name": "Keri Rowe",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "Contagem",
+    "state": "Nevada",
+    "techStack": "Backend",
+    "mainTribe": "Annie",
+    "mainProject": "Alpa"
+  },
+  {
+    "id": "6419edd90b869ece4344d67c",
+    "name": "Lilia Walls",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "Niteroi",
+    "state": "New Hampshire",
+    "techStack": "Backend",
+    "mainTribe": "Woz",
+    "mainProject": "Viagem"
+  },
+  {
+    "id": "6419edd98b192788db47d59b",
+    "name": "Allison Crane",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "São Gonçalo",
+    "state": "District Of Columbia",
+    "techStack": "DataScience",
+    "mainTribe": "Ritchie",
+    "mainProject": "Banco"
+  },
+  {
+    "id": "6419edd9854f43cea7f694f7",
+    "name": "Imogene Martinez",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "São Cristóvão",
+    "state": "North Dakota",
+    "techStack": "FrontEnd",
+    "mainTribe": "Annie",
+    "mainProject": "Minas"
+  },
+  {
+    "id": "6419edd9ae025d01b4897dc3",
+    "name": "Angelia Allen",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "Rio de Janeiro",
+    "state": "Missouri",
+    "techStack": "Marketing",
+    "mainTribe": "Woz",
+    "mainProject": "Música"
+  },
+  {
+    "id": "6419edd9f12cb3dd8f2f4ab6",
+    "name": "Colette White",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "Belo Horizonte",
+    "state": "South Carolina",
+    "techStack": "Backend",
+    "mainTribe": "Lawson",
+    "mainProject": "Havaianas"
+  },
+  {
+    "id": "6419edd9d54110e12e94b446",
+    "name": "Araceli Bush",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "São Paulo",
+    "state": "South Dakota",
+    "techStack": "DataScience",
+    "mainTribe": "Annie",
+    "mainProject": "Havaianas"
+  },
+  {
+    "id": "6419edd94ace61c6176c7b83",
+    "name": "Mcbride Glass",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "Lavras",
+    "state": "Rhode Island",
+    "techStack": "Backend",
+    "mainTribe": "Woz",
+    "mainProject": "Havaianas"
+  },
+  {
+    "id": "6419edd973868ce8ac6094e2",
+    "name": "Adeline Richards",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "São Paulo",
+    "state": "Pennsylvania",
+    "techStack": "Backend",
+    "mainTribe": "Annie",
+    "mainProject": "Havaianas"
+  },
+  {
+    "id": "6419edd92c2fd03aab7ab97f",
+    "name": "Christi Griffin",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "Niteroi",
+    "state": "Hawaii",
+    "techStack": "FrontEnd",
+    "mainTribe": "Katherine",
+    "mainProject": "Música"
+  },
+  {
+    "id": "6419edd95ffb6f0704cb14a7",
+    "name": "Yang Cabrera",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "Niteroi",
+    "state": "Marshall Islands",
+    "techStack": "People",
+    "mainTribe": "Turing",
+    "mainProject": "Energia"
+  },
+  {
+    "id": "6419edd99350c8aee78d2259",
+    "name": "Floyd Holloway",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "São Paulo",
+    "state": "Washington",
+    "techStack": "FrontEnd",
+    "mainTribe": "Katherine",
+    "mainProject": "Minas"
+  },
+  {
+    "id": "6419edd9bf50717a3221cd6d",
+    "name": "Consuelo Oneill",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "Rio de Janeiro",
+    "state": "Michigan",
+    "techStack": "FrontEnd",
+    "mainTribe": "Annie",
+    "mainProject": "Portal Governo"
+  },
+  {
+    "id": "6419edd9ae9c49cf69fd14aa",
+    "name": "Roberts Bennett",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "Lavras",
+    "state": "Ohio",
+    "techStack": "People",
+    "mainTribe": "Lawson",
+    "mainProject": "Minas"
+  },
+  {
+    "id": "6419edd99b8f279ef7661d63",
+    "name": "Mendez Vasquez",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "São Gonçalo",
+    "state": "Kentucky",
+    "techStack": "Backend",
+    "mainTribe": "Lawson",
+    "mainProject": "Funerária"
+  },
+  {
+    "id": "6419edd9431dca1e6b039e41",
+    "name": "Martinez Hatfield",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "São Cristóvão",
+    "state": "Massachusetts",
+    "techStack": "Backend",
+    "mainTribe": "Katherine",
+    "mainProject": "Funerária"
+  },
+  {
+    "id": "6419edd9577cef65aa3b8264",
+    "name": "Deidre Scott",
+    "birthday": "Tue Mar 21 2023 14:48:09 GMT-0300 (Horário Padrão de Brasília)",
+    "city": "Belo Horizonte",
+    "state": "New York",
+    "techStack": "People",
+    "mainTribe": "Turing",
+    "mainProject": "Música"
+  }
+]
